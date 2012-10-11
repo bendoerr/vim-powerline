@@ -6,8 +6,8 @@ call Pl#Hi#Allocate({
 	\
 	\ 'darkestgreen'   : 22,
 	\ 'darkgreen'      : 28,
-	\ 'mediumgreen'    : 70,
-	\ 'brightgreen'    : 148,
+	\ 'mediumgreen'    : 148,
+	\ 'brightgreen'    : 70,
 	\
 	\ 'darkestcyan'    : 23,
 	\ 'mediumcyan'     : 117,
